@@ -7,6 +7,7 @@ export function Index(props: AboutProps) {
             <div className="wrapper">
                 <div className="container">
                     <h2>hello~ {name}</h2>
+                    <h3>test deploy</h3>
                 </div>
             </div>
         </div>
